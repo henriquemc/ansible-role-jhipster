@@ -16,7 +16,7 @@ A description of the settable variables for this role should go here, including 
 Dependencies
 ------------
 
-None
+ williamyeh.oracle-java
 
 Example Playbook
 ----------------
