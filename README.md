@@ -17,6 +17,7 @@ Dependencies
 ------------
 
  williamyeh.oracle-java
+ geerlingguy.nodejs
 
 Example Playbook
 ----------------
